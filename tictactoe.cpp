@@ -3,8 +3,8 @@
 #include <ctime>
 using namespace std;
 
-int pos; // position choosen for the array 
-int choice; //choice about the playing
+int pos; // position krta for the array
+int choice; //choice leta about the game 
 char p1;//person 1
 char p2;//person 2
 char board[9] = {' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '};
