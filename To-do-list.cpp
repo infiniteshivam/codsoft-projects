@@ -78,7 +78,7 @@ int main(){
     {
     case 1:
         pendingwork();
-        
+        break;
     case 3:
         currentwork();
         break;
