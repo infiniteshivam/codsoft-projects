@@ -78,16 +78,7 @@ int main(){
     {
     case 1:
         pendingwork();
-        cout<<"LISTED!! (FOR MENU PRESS 1)"<<endl;
-        int in;
-        cin>>in;
-        if(in==1){
-             break;}
-        else{
-            cout<<"TAKE TIME...LIST ALL THE WORK!!"<<endl;
-            continue;
-        }
-
+        
     case 3:
         currentwork();
         break;
