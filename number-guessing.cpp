@@ -2,7 +2,7 @@
 #include <random>
 #include <string>
 #include <algorithm>
-#include <ctime> // time(0) ke liye zaroori hai
+#include <ctime> 
 
 using namespace std;
 
